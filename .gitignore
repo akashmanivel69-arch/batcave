@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+bat_env/
+
+# C++
+build/
+*.o
+*.out
+*.exe
+cpp/test/main
+cpp/test/bat_test
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db# C++ executables
+cpp/test/bat_test
+cpp/test/main# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+bat_env/
+
+# C++
+build/
+*.o
+*.out
+*.exe
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
